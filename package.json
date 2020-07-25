@@ -1,0 +1,19 @@
+{
+  "name": "braingames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fessaer/hexlet.frontend2020-lvl1.git"
+  },
+  "author": "Fessaer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fessaer/hexlet.frontend2020-lvl1/issues"
+  },
+  "homepage": "https://github.com/Fessaer/hexlet.frontend2020-lvl1#readme"
+}
